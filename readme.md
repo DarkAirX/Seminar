@@ -11,4 +11,4 @@
 
 #
 
-![Logo](https://karta-rassrochki.su/wp-content/uploads/2019/05/geekbrains.png)
+![Logo](https://www.tadviser.ru/images/3/37/GeekBrains.png)
