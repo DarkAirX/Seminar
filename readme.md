@@ -40,4 +40,6 @@
 
 
 ![Logo](https://i.imgur.com/1JHLTZm.png)
+
+## Удаленные репозитории
  
