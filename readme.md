@@ -10,3 +10,7 @@
 ![cat](https://m.spletnik.ru/img/2022/03/polly/20220328-kot-post.jpg)
 
 ![Logo](https://karta-rassrochki.su/wp-content/uploads/2019/05/geekbrains.png)
+
+## GeekBrains - образовательный портал
+
+**Мы учим людей с нуля осваивать программирование, веб-дизайн и маркетинг и другие профессии.**
